@@ -117,7 +117,7 @@ Main\_Function / WavelengthSolution.ipynb
   ### Problem
   Even though we did the Spectral Type Classification, we failed to normalized it based on our results before. we don't know whether the star is K star or M star, and we are not sure which way to normalize it is better.
 - K star normalization: cut the K standard star emission line and absorption line, use Gauss curve to fit the line. 
-- M star normalization: cut the M stars typical molecular band and use Gauss curve to fit the like
+- M star normalization: cut the M stars typical molecular band and use Gauss curve to fit the line.
   ### **Solution**
 - Apply two normalization methods to all the files and do the comparison
 - picture path: Final normalization file for all stars: norm\_final0 (I did GoodmanNormBest but seem like Dr. Yep add something new to it so we have norm\_final0)
