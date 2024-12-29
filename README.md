@@ -21,7 +21,7 @@
 
 ## Introduction
 
-We investigate the width and height of the H-alpha emission line from young stars to evaluate the effects of radiation from O-type stars and supernova remnants on protoplanetary disks. By comparing accretor fractions across regions with varying FUV radiation levels (G₀) and different ages, we aim to verify that radiation shortens the T[-Tauri stage of yo](https://doi.org/10.3847/1538-4357/ab6333)ung star formation.
+We investigate the width and height of the H-alpha emission line from young stars to evaluate the effects of radiation from O-type stars and supernova remnants on protoplanetary disks. By comparing accretor fractions across regions with varying FUV radiation levels (G₀) and different ages, we aim to verify that radiation shortens the T-Tauri stage of young star formation. [Previous research paper]((https://doi.org/10.3847/1538-4357/ab6333))
 
 ---
 
